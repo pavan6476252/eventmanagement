@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "352773195094",
+    "project_id": "ecommerce-b6ad3",
+    "storage_bucket": "ecommerce-b6ad3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352773195094:android:9e22d11d77f0de1ea442f7",
+        "android_client_info": {
+          "package_name": "com.joddev.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352773195094-a381vscq4gjggg7487l5kfv1ibfur3hi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_q1lzRuivWc26syJ8zq0ao6BBOQbghZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352773195094-a381vscq4gjggg7487l5kfv1ibfur3hi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "352773195094-oi65ds6i16o99i2dhhiuh1q9vvnto11m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.joddev.ecommerce"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352773195094:android:a42e8d319f08c675a442f7",
+        "android_client_info": {
+          "package_name": "com.thegitters.eventmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352773195094-a381vscq4gjggg7487l5kfv1ibfur3hi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_q1lzRuivWc26syJ8zq0ao6BBOQbghZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352773195094-a381vscq4gjggg7487l5kfv1ibfur3hi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "352773195094-oi65ds6i16o99i2dhhiuh1q9vvnto11m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.joddev.ecommerce"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
